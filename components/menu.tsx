@@ -37,7 +37,7 @@ const menuItems: MenuItem[] = [
     category: "Smoothies",
   },
   {
-    image: "/images/espresso",
+    image: "/images/Espresso.jpg",
     title: "Espresso",
     price: "$3",
     description: "Strong and bold single shot of espresso",
